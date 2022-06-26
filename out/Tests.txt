@@ -1,0 +1,415 @@
+##########################################################################################
+######################################## PRE-FLOP ########################################
+##########################################################################################
+## Player nr. 1 ##
+7-card sorted sequense:
+Card 1:	##VALUE: -2	##TYPE: -2
+Card 2:	##VALUE: -4	##TYPE: -4
+Card 3:	##VALUE: -6	##TYPE: -6
+Card 4:	##VALUE: -8	##TYPE: -8
+Card 5:	##VALUE: -10	##TYPE: -10
+Card 6:	##VALUE: 2	##TYPE: 4
+Card 7:	##VALUE: 5	##TYPE: 4
+Best hand combination:
+Card 1:	##VALUE: 5	##TYPE: 4
+Card 2:	##VALUE: 2	##TYPE: 4
+Card 3:	##VALUE: -10	##TYPE: -10
+Card 4:	##VALUE: -8	##TYPE: -8
+Card 5:	##VALUE: -6	##TYPE: -6
+## High card! ##
+
+Outs: 6
+Chance of hitting an out: 12%
+-------------------------------------------
+## Player nr. 2 ##
+7-card sorted sequense:
+Card 1:	##VALUE: -2	##TYPE: -2
+Card 2:	##VALUE: -4	##TYPE: -4
+Card 3:	##VALUE: -6	##TYPE: -6
+Card 4:	##VALUE: -8	##TYPE: -8
+Card 5:	##VALUE: -10	##TYPE: -10
+Card 6:	##VALUE: 4	##TYPE: 2
+Card 7:	##VALUE: 9	##TYPE: 1
+Best hand combination:
+Card 1:	##VALUE: 9	##TYPE: 1
+Card 2:	##VALUE: 4	##TYPE: 2
+Card 3:	##VALUE: -10	##TYPE: -10
+Card 4:	##VALUE: -8	##TYPE: -8
+Card 5:	##VALUE: -6	##TYPE: -6
+## High card! ##
+
+Outs: 6
+Chance of hitting an out: 12%
+-------------------------------------------
+## Player nr. 3 ##
+7-card sorted sequense:
+Card 1:	##VALUE: -2	##TYPE: -2
+Card 2:	##VALUE: -4	##TYPE: -4
+Card 3:	##VALUE: -6	##TYPE: -6
+Card 4:	##VALUE: -8	##TYPE: -8
+Card 5:	##VALUE: -10	##TYPE: -10
+Card 6:	##VALUE: 1	##TYPE: 4
+Card 7:	##VALUE: 1	##TYPE: 3
+Best hand combination:
+Card 1:	##VALUE: 1	##TYPE: 4
+Card 2:	##VALUE: 1	##TYPE: 3
+Card 3:	##VALUE: 0	##TYPE: 0
+Card 4:	##VALUE: 0	##TYPE: 0
+Card 5:	##VALUE: 0	##TYPE: 0
+## Pair! ##
+
+Outs: 2
+Chance of hitting an out: 4%
+-------------------------------------------
+## Player nr. 4 ##
+7-card sorted sequense:
+Card 1:	##VALUE: -2	##TYPE: -2
+Card 2:	##VALUE: -4	##TYPE: -4
+Card 3:	##VALUE: -6	##TYPE: -6
+Card 4:	##VALUE: -8	##TYPE: -8
+Card 5:	##VALUE: -10	##TYPE: -10
+Card 6:	##VALUE: 3	##TYPE: 1
+Card 7:	##VALUE: 6	##TYPE: 3
+Best hand combination:
+Card 1:	##VALUE: 6	##TYPE: 3
+Card 2:	##VALUE: 3	##TYPE: 1
+Card 3:	##VALUE: -10	##TYPE: -10
+Card 4:	##VALUE: -8	##TYPE: -8
+Card 5:	##VALUE: -6	##TYPE: -6
+## High card! ##
+
+Outs: 6
+Chance of hitting an out: 12%
+-------------------------------------------
+## Player nr. 5 ##
+7-card sorted sequense:
+Card 1:	##VALUE: -2	##TYPE: -2
+Card 2:	##VALUE: -4	##TYPE: -4
+Card 3:	##VALUE: -6	##TYPE: -6
+Card 4:	##VALUE: -8	##TYPE: -8
+Card 5:	##VALUE: -10	##TYPE: -10
+Card 6:	##VALUE: 8	##TYPE: 1
+Card 7:	##VALUE: 12	##TYPE: 2
+Best hand combination:
+Card 1:	##VALUE: 12	##TYPE: 2
+Card 2:	##VALUE: 8	##TYPE: 1
+Card 3:	##VALUE: -10	##TYPE: -10
+Card 4:	##VALUE: -8	##TYPE: -8
+Card 5:	##VALUE: -6	##TYPE: -6
+## High card! ##
+
+Outs: 6
+Chance of hitting an out: 12%
+-------------------------------------------
+##########################################################################################
+######################################## FLOP ############################################
+##########################################################################################
+## Player nr. 1 ##
+7-card sorted sequense:
+Card 1:	##VALUE: -8	##TYPE: -8
+Card 2:	##VALUE: -10	##TYPE: -10
+Card 3:	##VALUE: 1	##TYPE: 2
+Card 4:	##VALUE: 2	##TYPE: 4
+Card 5:	##VALUE: 3	##TYPE: 2
+Card 6:	##VALUE: 5	##TYPE: 4
+Card 7:	##VALUE: 5	##TYPE: 2
+Best hand combination:
+Card 1:	##VALUE: 5	##TYPE: 4
+Card 2:	##VALUE: 5	##TYPE: 2
+Card 3:	##VALUE: 0	##TYPE: 0
+Card 4:	##VALUE: 0	##TYPE: 0
+Card 5:	##VALUE: 0	##TYPE: 0
+## Pair! ##
+
+Outs: 13
+Chance of hitting an out: 27%
+-------------------------------------------
+## Player nr. 2 ##
+7-card sorted sequense:
+Card 1:	##VALUE: -8	##TYPE: -8
+Card 2:	##VALUE: -10	##TYPE: -10
+Card 3:	##VALUE: 1	##TYPE: 2
+Card 4:	##VALUE: 3	##TYPE: 2
+Card 5:	##VALUE: 4	##TYPE: 2
+Card 6:	##VALUE: 5	##TYPE: 2
+Card 7:	##VALUE: 9	##TYPE: 1
+Best hand combination:
+Card 1:	##VALUE: 9	##TYPE: 1
+Card 2:	##VALUE: 5	##TYPE: 2
+Card 3:	##VALUE: 4	##TYPE: 2
+Card 4:	##VALUE: 3	##TYPE: 2
+Card 5:	##VALUE: 1	##TYPE: 2
+## High card! ##
+
+Outs: 22
+Chance of hitting an out: 46%
+-------------------------------------------
+## Player nr. 3 ##
+7-card sorted sequense:
+Card 1:	##VALUE: -8	##TYPE: -8
+Card 2:	##VALUE: -10	##TYPE: -10
+Card 3:	##VALUE: 1	##TYPE: 4
+Card 4:	##VALUE: 1	##TYPE: 3
+Card 5:	##VALUE: 1	##TYPE: 2
+Card 6:	##VALUE: 3	##TYPE: 2
+Card 7:	##VALUE: 5	##TYPE: 2
+Best hand combination:
+Card 1:	##VALUE: 1	##TYPE: 4
+Card 2:	##VALUE: 1	##TYPE: 3
+Card 3:	##VALUE: 1	##TYPE: 2
+Card 4:	##VALUE: 0	##TYPE: 0
+Card 5:	##VALUE: 0	##TYPE: 0
+## Set! ##
+
+Outs: 7
+Chance of hitting an out: 14%
+-------------------------------------------
+## Player nr. 4 ##
+7-card sorted sequense:
+Card 1:	##VALUE: -8	##TYPE: -8
+Card 2:	##VALUE: -10	##TYPE: -10
+Card 3:	##VALUE: 1	##TYPE: 2
+Card 4:	##VALUE: 3	##TYPE: 1
+Card 5:	##VALUE: 3	##TYPE: 2
+Card 6:	##VALUE: 5	##TYPE: 2
+Card 7:	##VALUE: 6	##TYPE: 3
+Best hand combination:
+Card 1:	##VALUE: 3	##TYPE: 1
+Card 2:	##VALUE: 3	##TYPE: 2
+Card 3:	##VALUE: 0	##TYPE: 0
+Card 4:	##VALUE: 0	##TYPE: 0
+Card 5:	##VALUE: 0	##TYPE: 0
+## Pair! ##
+
+Outs: 10
+Chance of hitting an out: 21%
+-------------------------------------------
+## Player nr. 5 ##
+7-card sorted sequense:
+Card 1:	##VALUE: -8	##TYPE: -8
+Card 2:	##VALUE: -10	##TYPE: -10
+Card 3:	##VALUE: 1	##TYPE: 2
+Card 4:	##VALUE: 3	##TYPE: 2
+Card 5:	##VALUE: 5	##TYPE: 2
+Card 6:	##VALUE: 8	##TYPE: 1
+Card 7:	##VALUE: 12	##TYPE: 2
+Best hand combination:
+Card 1:	##VALUE: 12	##TYPE: 2
+Card 2:	##VALUE: 8	##TYPE: 1
+Card 3:	##VALUE: 5	##TYPE: 2
+Card 4:	##VALUE: 3	##TYPE: 2
+Card 5:	##VALUE: 1	##TYPE: 2
+## High card! ##
+
+Outs: 20
+Chance of hitting an out: 42%
+-------------------------------------------
+##########################################################################################
+######################################## TURN ############################################
+##########################################################################################
+## Player nr. 1 ##
+7-card sorted sequense:
+Card 1:	##VALUE: -10	##TYPE: -10
+Card 2:	##VALUE: 1	##TYPE: 2
+Card 3:	##VALUE: 2	##TYPE: 4
+Card 4:	##VALUE: 3	##TYPE: 2
+Card 5:	##VALUE: 3	##TYPE: 4
+Card 6:	##VALUE: 5	##TYPE: 4
+Card 7:	##VALUE: 5	##TYPE: 2
+Best hand combination:
+Card 1:	##VALUE: 3	##TYPE: 2
+Card 2:	##VALUE: 3	##TYPE: 4
+Card 3:	##VALUE: 5	##TYPE: 4
+Card 4:	##VALUE: 5	##TYPE: 2
+Card 5:	##VALUE: 0	##TYPE: 0
+## Two Pair! ##
+
+Outs: 7
+Chance of hitting an out: 15%
+-------------------------------------------
+## Player nr. 2 ##
+7-card sorted sequense:
+Card 1:	##VALUE: -10	##TYPE: -10
+Card 2:	##VALUE: 1	##TYPE: 2
+Card 3:	##VALUE: 3	##TYPE: 2
+Card 4:	##VALUE: 3	##TYPE: 4
+Card 5:	##VALUE: 4	##TYPE: 2
+Card 6:	##VALUE: 5	##TYPE: 2
+Card 7:	##VALUE: 9	##TYPE: 1
+Best hand combination:
+Card 1:	##VALUE: 3	##TYPE: 2
+Card 2:	##VALUE: 3	##TYPE: 4
+Card 3:	##VALUE: 0	##TYPE: 0
+Card 4:	##VALUE: 0	##TYPE: 0
+Card 5:	##VALUE: 0	##TYPE: 0
+## Pair! ##
+
+Outs: 21
+Chance of hitting an out: 45%
+-------------------------------------------
+## Player nr. 3 ##
+7-card sorted sequense:
+Card 1:	##VALUE: -10	##TYPE: -10
+Card 2:	##VALUE: 1	##TYPE: 4
+Card 3:	##VALUE: 1	##TYPE: 3
+Card 4:	##VALUE: 1	##TYPE: 2
+Card 5:	##VALUE: 3	##TYPE: 2
+Card 6:	##VALUE: 3	##TYPE: 4
+Card 7:	##VALUE: 5	##TYPE: 2
+Best hand combination:
+Card 1:	##VALUE: 3	##TYPE: 2
+Card 2:	##VALUE: 3	##TYPE: 4
+Card 3:	##VALUE: 1	##TYPE: 4
+Card 4:	##VALUE: 1	##TYPE: 3
+Card 5:	##VALUE: 1	##TYPE: 2
+## Full House! ##
+
+Outs: 2
+Chance of hitting an out: 4%
+-------------------------------------------
+## Player nr. 4 ##
+7-card sorted sequense:
+Card 1:	##VALUE: -10	##TYPE: -10
+Card 2:	##VALUE: 1	##TYPE: 2
+Card 3:	##VALUE: 3	##TYPE: 1
+Card 4:	##VALUE: 3	##TYPE: 2
+Card 5:	##VALUE: 3	##TYPE: 4
+Card 6:	##VALUE: 5	##TYPE: 2
+Card 7:	##VALUE: 6	##TYPE: 3
+Best hand combination:
+Card 1:	##VALUE: 3	##TYPE: 1
+Card 2:	##VALUE: 3	##TYPE: 2
+Card 3:	##VALUE: 3	##TYPE: 4
+Card 4:	##VALUE: 0	##TYPE: 0
+Card 5:	##VALUE: 0	##TYPE: 0
+## Set! ##
+
+Outs: 9
+Chance of hitting an out: 19%
+-------------------------------------------
+## Player nr. 5 ##
+7-card sorted sequense:
+Card 1:	##VALUE: -10	##TYPE: -10
+Card 2:	##VALUE: 1	##TYPE: 2
+Card 3:	##VALUE: 3	##TYPE: 2
+Card 4:	##VALUE: 3	##TYPE: 4
+Card 5:	##VALUE: 5	##TYPE: 2
+Card 6:	##VALUE: 8	##TYPE: 1
+Card 7:	##VALUE: 12	##TYPE: 2
+Best hand combination:
+Card 1:	##VALUE: 3	##TYPE: 2
+Card 2:	##VALUE: 3	##TYPE: 4
+Card 3:	##VALUE: 0	##TYPE: 0
+Card 4:	##VALUE: 0	##TYPE: 0
+Card 5:	##VALUE: 0	##TYPE: 0
+## Pair! ##
+
+Outs: 19
+Chance of hitting an out: 41%
+-------------------------------------------
+##########################################################################################
+######################################## RIVER ###########################################
+##########################################################################################
+## Player nr. 1 ##
+7-card sorted sequense:
+Card 1:	##VALUE: 1	##TYPE: 2
+Card 2:	##VALUE: 2	##TYPE: 4
+Card 3:	##VALUE: 3	##TYPE: 2
+Card 4:	##VALUE: 3	##TYPE: 4
+Card 5:	##VALUE: 5	##TYPE: 4
+Card 6:	##VALUE: 5	##TYPE: 2
+Card 7:	##VALUE: 13	##TYPE: 1
+Best hand combination:
+Card 1:	##VALUE: 3	##TYPE: 2
+Card 2:	##VALUE: 3	##TYPE: 4
+Card 3:	##VALUE: 5	##TYPE: 4
+Card 4:	##VALUE: 5	##TYPE: 2
+Card 5:	##VALUE: 0	##TYPE: 0
+## Two Pair! ##
+
+Outs: 7
+Chance of hitting an out: 15%
+-------------------------------------------
+## Player nr. 2 ##
+7-card sorted sequense:
+Card 1:	##VALUE: 1	##TYPE: 2
+Card 2:	##VALUE: 3	##TYPE: 2
+Card 3:	##VALUE: 3	##TYPE: 4
+Card 4:	##VALUE: 4	##TYPE: 2
+Card 5:	##VALUE: 5	##TYPE: 2
+Card 6:	##VALUE: 9	##TYPE: 1
+Card 7:	##VALUE: 13	##TYPE: 1
+Best hand combination:
+Card 1:	##VALUE: 3	##TYPE: 2
+Card 2:	##VALUE: 3	##TYPE: 4
+Card 3:	##VALUE: 0	##TYPE: 0
+Card 4:	##VALUE: 0	##TYPE: 0
+Card 5:	##VALUE: 0	##TYPE: 0
+## Pair! ##
+
+Outs: 23
+Chance of hitting an out: 51%
+-------------------------------------------
+## Player nr. 3 ##
+7-card sorted sequense:
+Card 1:	##VALUE: 1	##TYPE: 4
+Card 2:	##VALUE: 1	##TYPE: 3
+Card 3:	##VALUE: 1	##TYPE: 2
+Card 4:	##VALUE: 3	##TYPE: 2
+Card 5:	##VALUE: 3	##TYPE: 4
+Card 6:	##VALUE: 5	##TYPE: 2
+Card 7:	##VALUE: 13	##TYPE: 1
+Best hand combination:
+Card 1:	##VALUE: 3	##TYPE: 2
+Card 2:	##VALUE: 3	##TYPE: 4
+Card 3:	##VALUE: 1	##TYPE: 4
+Card 4:	##VALUE: 1	##TYPE: 3
+Card 5:	##VALUE: 1	##TYPE: 2
+## Full House! ##
+
+Outs: 2
+Chance of hitting an out: 4%
+-------------------------------------------
+## Player nr. 4 ##
+7-card sorted sequense:
+Card 1:	##VALUE: 1	##TYPE: 2
+Card 2:	##VALUE: 3	##TYPE: 1
+Card 3:	##VALUE: 3	##TYPE: 2
+Card 4:	##VALUE: 3	##TYPE: 4
+Card 5:	##VALUE: 5	##TYPE: 2
+Card 6:	##VALUE: 6	##TYPE: 3
+Card 7:	##VALUE: 13	##TYPE: 1
+Best hand combination:
+Card 1:	##VALUE: 3	##TYPE: 1
+Card 2:	##VALUE: 3	##TYPE: 2
+Card 3:	##VALUE: 3	##TYPE: 4
+Card 4:	##VALUE: 0	##TYPE: 0
+Card 5:	##VALUE: 0	##TYPE: 0
+## Set! ##
+
+Outs: 12
+Chance of hitting an out: 26%
+-------------------------------------------
+## Player nr. 5 ##
+7-card sorted sequense:
+Card 1:	##VALUE: 1	##TYPE: 2
+Card 2:	##VALUE: 3	##TYPE: 2
+Card 3:	##VALUE: 3	##TYPE: 4
+Card 4:	##VALUE: 5	##TYPE: 2
+Card 5:	##VALUE: 8	##TYPE: 1
+Card 6:	##VALUE: 12	##TYPE: 2
+Card 7:	##VALUE: 13	##TYPE: 1
+Best hand combination:
+Card 1:	##VALUE: 3	##TYPE: 2
+Card 2:	##VALUE: 3	##TYPE: 4
+Card 3:	##VALUE: 0	##TYPE: 0
+Card 4:	##VALUE: 0	##TYPE: 0
+Card 5:	##VALUE: 0	##TYPE: 0
+## Pair! ##
+
+Outs: 21
+Chance of hitting an out: 46%
+-------------------------------------------
+#############################
+### Winner is Player 3!! ###
+#############################
