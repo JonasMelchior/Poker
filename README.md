@@ -4,5 +4,6 @@ This is a terminal application, where a poker game can be simulated with out sta
 
 ##
 Makefile located in `src`
+
 Output file log file with game details located in `out`
 ##
